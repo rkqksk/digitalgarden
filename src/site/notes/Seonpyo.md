@@ -5,3 +5,4 @@
 
 # This is home for me!
 
+- How to use: [[Obsidian Digital Garden|Obsidian Digital Garden]]
