@@ -10,3 +10,5 @@
 - Reading: [[01_Personal/01.111_Learning/01.111.1_Reading/01.111.1.1_Books(10K)/Reading_index|Reading_index]]
 - test: [[02_Business/02.213_SSD/E_소매(가칭mososhop)/올웨이즈_20220906_계획|올웨이즈 어떻게 준비할거냐?]]
 
+
+----
