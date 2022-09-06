@@ -3,7 +3,7 @@
 ---
 
 
-# Home(https://tinyurl.com/2e65fhwl)
+# Home
 ---
 
 > # Learning
