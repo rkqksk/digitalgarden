@@ -19,3 +19,4 @@
 > # Productivity
 > 	1. Obsidian
 > 		- [[01_Personal/01.111_Learning/111.7_How to work/117.1_Productivity/117.1.1_Obsidian/옵시디안 사용팁|옵시디안 사용팁]]
+> 		- [[01_Personal/01.111_Learning/111.7_How to work/117.1_Productivity/117.1.1_Obsidian/Obsidian Digital Garden|디지털가든 본진]]
