@@ -12,7 +12,7 @@ BUSINESS
 - Be an always seller
 	- [[02_Business/02.213_SSD/E_소매(가칭mososhop)/always_입점정보|올웨이즈입점정보]]
 - YOUTUBE
-	- [[유튜브_아이디어|유튜브_아이디어]]
+	- [[YT_아이디어|YT_아이디어]]
 - 건강보조제_구매리스트
 	- [[01_Personal/115_Health/115.2_Supplements/115.2_Supplements|건강보조제]]
 
