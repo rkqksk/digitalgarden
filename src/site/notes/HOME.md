@@ -12,7 +12,9 @@
 > 	1. SSD
 > 		- [[02_Business/02.213_SSD/E_소매(가칭mososhop)/올웨이즈_20220906_계획|올웨이즈_20220906_계획]]
 > 		- [[02_Business/02.213_SSD/E_소매(가칭mososhop)/always_입점정보|always_입점정보]]
-> 	2. DEV
+> 	2. YOUTUBE
+> 		- [[02_Business/02.213_SSD/02.213.2_YOUTUBE&Class101/유튜브_아이디어|유튜브_아이디어]]
+> 	3. DEV
 > 		- [[02_Business/02.211_Mission&Vision/02.211.1_Mission_statement/02.211.1.1_Spread all of world!/02.211.1.1.1_Short-term goal/02.211.1.1.7_Sales-increase/02.211.1.1.7.2_new-product/021-04_Egg_Jar|에그자수정개발]]
 > 		- [[02_Business/02.211_Mission&Vision/02.211.1_Mission_statement/02.211.1.1_Spread all of world!/02.211.1.1.1_Short-term goal/02.211.1.1.7_Sales-increase/02.211.1.1.7.2_new-product/025-01_DN_헤어_에센스_120ml 용기/DN 헤어 에센스 120ml 용기_시사출(개발)|DN 헤어 에센스 120ml 용기_시사출(개발)]]
 
